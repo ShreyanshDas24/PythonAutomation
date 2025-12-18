@@ -1,0 +1,9 @@
+{
+  "Images": [".jpeg", ".png", ".jpg", ".svg", ".gif"],
+  "Documents": [".doc", ".docx", ".pdf", ".txt", ".xls", ".xlsx", ".ppt"],
+  "Audio": [".mp3", ".wav", ".aac"],
+  "Video": [".mp4", ".mkv", ".mov", ".avi"],
+  "Archives": [".zip", ".rar", ".tar", ".gz"],
+  "Codes": [".py", ".js", ".sh", ".bat", ".html", ".css", ".java", ".c", ".cpp"],
+  "Executables": [".exe", ".msi", ".bin", ".bat"]
+}
